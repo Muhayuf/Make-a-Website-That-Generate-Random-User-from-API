@@ -1,5 +1,6 @@
 Deskripsi:
-    code ini adalah code yg menggenerate random user dari RandomUser API dan memberikan detail dari user yg kita klik
+    - code ini merupakan tugas final project mata kuliah Web Programming semester 1 di President University
+    - code ini adalah code yg menggenerate random user dari RandomUser API dan memberikan detail dari user yg kita klik
     (seperti: private information, account information dan address detail).
 
 SARAN: 
